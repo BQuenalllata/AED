@@ -1,1 +1,1 @@
-Este es el archivo frontal de la carpeta creada y para la atividad se utilizará el lenguaje C++
+Este es el archivo frontal de la carpeta creada y para esta actividad se utilizará el lenguaje C++
